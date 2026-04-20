@@ -55,6 +55,3 @@ Thesis: Forecasting algorithm to predict company revenue
 
 **BSc Computer Science** — ISCTE, Lisbon *(2016–2020)*
 
----
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gcmls&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/gcmls)
